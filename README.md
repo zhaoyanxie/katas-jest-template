@@ -2,8 +2,8 @@
 
 ### Getting started
 - Fork and clone repo
-- Install dependencies: `npm install`
 - cd into project directory
+- Install dependencies: `npm install`
 - Run tests:
   - run tests in watch mode: `npm run test:watch`
   - run tests once: `npm test`
