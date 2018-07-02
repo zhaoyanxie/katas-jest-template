@@ -1,5 +1,4 @@
 const splitTheBill = people => {
-  // const keys = Object.keys(people);
   const values = Object.values(people);
   const average = values.reduce((a, b) => a + b) / values.length;
 
